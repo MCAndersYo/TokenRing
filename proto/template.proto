@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/MCAndersYo/TokenRing";
+option go_package = "github.com/MCAndersYo/TokenRing/proto";
 
 package proto;
 
